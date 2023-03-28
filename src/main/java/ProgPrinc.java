@@ -32,7 +32,7 @@ public class ProgPrinc {
 
         }
 
-        // ura sunt logat , deci pot baga mancare
+    
         while (true) {
 
             boolean isAdmin = dbaccess.isAdmin(u);
